@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <title>HTML Forms</title>
+  </head>
+  <body>
+    <section id="overlay">
+      <img src="https://cdn.akamai.steamstatic.com/steam/apps/730840/capsule_616x353.jpg" alt="Davie's Burgers Logo" id="logo">
+      <hr>
+      <!--Add your code below-->
+      <form action="/practice.html" method="POST">
+          <h1>This is a burger site</h1>
+          <p>Get your burgers whilst they're hot!</p>
+
+          <section class="protein">
+            <label for="patty">What type of protein would you like?</label>
+            <input type="text" name="patty" id="patty"
+            value="Beef">
+
+            <section class="patties">
+            <label for="amount">How many patties 
+            would you like?</label>
+
+           <input id="amount" type="number" step="2"
+            name="amount">
+         </section>
+
+         <section class="cooked">
+        <label for="doneness">How do you want 
+        your burger cooked?</label>
+        <br>
+        <span>Rare</span>
+
+        <input type="range" id="doneness" name="doneness"
+        min="0" max="5" step="0.5">
+
+        <span>Well-Done</span>
+        </section>
+
+        <section class="toppings">
+        <br>
+
+        <input id="lettuce" name="topping"
+        type="checkbox" value=""lettuce">
+
+        <label for="Lettuce">Lettuce</label>
+
+        <input id="cheese" name="topping"
+        type="checkbox" value="cheese">
+
+        <label for="cheese">Cheese</label>
+        <input id="Tomato"
+
+
+        
+        </section>
+
+         </section>
+            
+
+    </section>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1> What would I like to eat right now? </h1>
+<p> CHOCOLATE </p>
+<h3> Really? </h3>
+<p> YEAH MAN </p>
+</body>
+</html>
+
+<em> Hi italics </em> 
+<strong> hello bold </strong>
+<span> Hey </span>
+
+<h1> My favourite snacks </h1>
+<ul>
+    <li> Crackers </li> 
+    <li> Dairy milk chocolate </li> 
+    <li> Cheetos </li>
+    <li> Haibos giant strawbs </li>
+</ul> 
+
+<ol> Ordered list </ol>
